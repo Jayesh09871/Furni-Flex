@@ -14,7 +14,7 @@ This is a responsive furniture website showcasing various furniture designs. It'
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Jayesh09871/Responsive-Furniture-Website.git
+   git clone https://github.com/Jayesh09871/Responsive-Furniture-Website-.git
 
 2. Navigate to the project directory:
    ```bash
