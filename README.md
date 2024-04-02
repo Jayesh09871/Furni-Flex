@@ -29,13 +29,16 @@ This is a responsive furniture website showcasing various furniture designs. It'
 
 ## Screenshots
 
-![f1](https://github.com/Jayesh09871/Responsive-Furniture-Website-/assets/153702637/3b2b7e58-78e1-4b22-95d9-712f514812e5)
+![q1](https://github.com/Jayesh09871/Furni-Flex/assets/153702637/a08808ea-e82a-4722-b35e-aa46f15b0814)
 
-![f2](https://github.com/Jayesh09871/Responsive-Furniture-Website-/assets/153702637/c38eab6a-c010-40b4-8abe-d8b0f693b9a3)
+![q2](https://github.com/Jayesh09871/Furni-Flex/assets/153702637/32e6a560-6a04-4f90-a81f-cac6ebd15a31)
 
-![f3](https://github.com/Jayesh09871/Responsive-Furniture-Website-/assets/153702637/410754ad-e8b6-4252-9b12-fcde1f9df356)
+![q3](https://github.com/Jayesh09871/Furni-Flex/assets/153702637/878c7e66-0779-4313-b1a2-d29215d073e9)
 
-![f4](https://github.com/Jayesh09871/Responsive-Furniture-Website-/assets/153702637/b998e242-71e4-4070-a67e-20a930706aa5)
+![q4](https://github.com/Jayesh09871/Furni-Flex/assets/153702637/3b6de63f-debc-401d-905b-a30756f6376f)
+
+![q5](https://github.com/Jayesh09871/Furni-Flex/assets/153702637/533774f1-2749-4941-97b7-83925e809ed1)
+
 
 
 
